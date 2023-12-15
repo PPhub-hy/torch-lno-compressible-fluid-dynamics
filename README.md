@@ -1,7 +1,5 @@
 # torch-lno-compressible-fluid-dynamics
 
-# Implementation of  the local neural operator
-
 This page releases codes and data of an academic paper, 'On the locality of local neural operator in learning fluid dynamics'.
 With the provided codes, one can quickly reproduce the training & validation of local neural operator on the task of compressiblem fluid dynamics.
 Also, two demos for applying the well-trained LNOs to respectively solve the 2-D flows around a circular cylinder and vehicles are provided.
